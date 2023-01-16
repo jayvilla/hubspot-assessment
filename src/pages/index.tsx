@@ -1,5 +1,5 @@
 import { Conversation } from "interfaces/conversations.interface";
-import { MessageData } from "interfaces/messageData";
+import { MessageData } from "interfaces/messageData.interface";
 import { Message } from "interfaces/messages.interface";
 import { User } from "interfaces/user.interface";
 import { postResult } from "lib/postResult";
